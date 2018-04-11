@@ -1,0 +1,17 @@
+box
+-110 -25 0 250 50 30
+box
+-10 275 0 50 300 30
+torus
+15 60 0 20 30
+torus
+15 30 0 20 60
+torus
+15 -5 0 20 100
+ident
+move
+220 150 0
+apply
+display
+save
+pic.png
